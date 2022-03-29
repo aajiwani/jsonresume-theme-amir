@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Coming in from original theme template (https://github.com/jsonresume/jsonresume-theme-boilerplate)
+resume.html
+resume.pdf
+resume.json
+.DS_Store
